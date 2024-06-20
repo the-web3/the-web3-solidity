@@ -4,7 +4,7 @@
 
 本教程由 The Web3 社区出品
 
-[![savourlabs](https://github.com/0xchaineye/chaineye-blockchain-interview/blob/main/images/pic_chang.png)](https://github.com/savour-labs)
+[![DappLink](https://raw.githubusercontent.com/eniac-x-labs/.github/main/profile/dapplink.jpeg)](https://www.dapplink.xyz/zh)
 
 
 ## 教程目录
@@ -12,7 +12,7 @@
 ### 基础篇
 
 #### 1. 初识 Solidity 编程语言- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/first-meeting/Readme.md)
-#### 2. Solidity 数据类型- [教程]()
+#### 2. Solidity 数据类型- [教程](https://github.com/the-web3/the-web3-solidity/tree/main/data-type#readme)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
