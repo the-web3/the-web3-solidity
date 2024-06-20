@@ -62,10 +62,10 @@ The Web3 是一个专注 Web3 技术解决方案设计与开发、技术教程�
 - 除此之外，我们还和 "磐石安全实验室" 深入合作，开展去中心化安全审计服务
 - 
 ## The Web3 社区官方链接
-github: https://github.com/the-web3
-X: https://twitter.com/0xtheweb3cn
-telegram: https://t.me/+pmoh3D4uTAFjNWM1
-discord:  https://discord.gg/muhuXRsK
-the web3 官网：https://thewebthree.xyz/
-the web3 技术服务网站：https://web.thewebthree.xyz/
+- github: https://github.com/the-web3
+- X: https://twitter.com/0xtheweb3cn
+- telegram: https://t.me/+pmoh3D4uTAFjNWM1
+- discord:  https://discord.gg/muhuXRsK
+- the web3 官网：https://thewebthree.xyz/
+- the web3 技术服务网站：https://web.thewebthree.xyz/
 
