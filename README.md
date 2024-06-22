@@ -23,6 +23,18 @@
 
 ### 进阶篇
 ####  Solidity 编程语言进阶- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/Readme.md)
+##### 进阶文章包含以下内容
+- 底层调用 call、delegatecall 以及 Multicall
+- 跨合约调用方式
+- 常见的address(this)，tx.origin 和 msg.sender 语句解释
+- create2 底层原理与实现机制
+- 合约删除
+- Solidity 内联汇编
+- 合约的升级方式
+- Solidity 内存布局
+- 合约的 lib 库
+- OZ 代码库讲解
+- ABI 编解码和生成 bindings
 
 
 ------------------------------------------------------------------------------------------------------------------------------
