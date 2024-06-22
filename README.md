@@ -11,14 +11,18 @@
 
 ### 基础篇
 
-#### 1. 初识 Solidity 编程语言- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/first-meeting/Readme.md)
+#### 1. Solidity 编程语言初识 - [教程](https://github.com/the-web3/the-web3-solidity/blob/main/first-meeting/Readme.md)
 #### 2. Solidity 数据类型- [教程](https://github.com/the-web3/the-web3-solidity/tree/main/data-type#readme)
-
+#### 3. Solidity 循环分支控制- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/loop_branch_control/Readme.md)
+#### 4. solidity 函数与事件- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/functions_events/Readme.md)
+#### 5. solidity 继承，抽象合约与接口- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/abstract_interfaces/Readme.md)
+#### 6. solidity 变量作用域和数据存储 - [教程](https://github.com/the-web3/the-web3-solidity/blob/main/variable_storage/Readme.md)
+#### 7. solidity 异常处理- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/exception_handling/Readme.md)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### 进阶篇
-
+####  Solidity 编程语言进阶- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/Readme.md)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
