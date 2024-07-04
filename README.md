@@ -22,7 +22,7 @@
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### 进阶篇
-####  Solidity 编程语言进阶- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/Readme.md)
+####  Solidity 编程语言进阶- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/intermediate/Readme.md)
 ##### 进阶文章包含以下内容
 - 底层调用 call、delegatecall 以及 Multicall
 - 跨合约调用方式
@@ -36,14 +36,15 @@
 - OZ 代码库讲解
 - ABI 编解码和生成 bindings
 
-
+####  Ethereum 开发工具之 Hardhat - [教程](https://github.com/the-web3/the-web3-solidity/blob/main/intermediate/Hardhat.md)
+####  Ethereum 开发工具之 Foundry - [教程](https://github.com/the-web3/the-web3-solidity/blob/main/intermediate/Foundry.md)
+####  Ethereum 交易类型及其特点 - [教程](https://github.com/the-web3/the-web3-solidity/blob/main/intermediate/eth_transaction_type.md)
 ------------------------------------------------------------------------------------------------------------------------------
 
 
 ### 高级篇
-
-
-
+#### EVM 交易执行过程和 Opcodes 简介- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/evm_transaction_execution_process.md)
+#### EVM 堆栈指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/evm_heap_stack_instruction_set.md)
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### 区块链项目实战篇
