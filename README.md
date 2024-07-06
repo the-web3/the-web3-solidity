@@ -43,8 +43,13 @@
 
 
 ### 高级篇
-#### EVM 交易执行过程和 Opcodes 简介- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/evm_transaction_execution_process.md)
-#### EVM 堆栈指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/evm_heap_stack_instruction_set.md)
+#### EVM 交易执行过程和 Opcodes 简介- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_transaction_execution_process.md)
+#### EVM 堆栈指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_heap_stack_instruction_set.md)
+#### EVM 算术指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_arithmetic_instruction_set)
+#### EVM 位指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_bit_instruction_set.md)
+#### EVM 比较指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_compare_instruction_set.md)
+#### EVM 内存与存储指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_memory_and_storage_instruction_set.md)
+#### EVM 控制流程、区块等相关的指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_control_instruction_set.md)
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### 区块链项目实战篇
