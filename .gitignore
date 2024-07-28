@@ -20,3 +20,5 @@
 # Go workspace file
 go.work
 go.work.sum
+./code/day2/.idea
+./code/day2/node_modules
