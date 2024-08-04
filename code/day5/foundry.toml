@@ -1,0 +1,18 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+solc = "0.8.20"
+# https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades
+ffi = true
+ast = true
+build_info = true
+extra_output = ["storageLayout"]
+
+[rpc_endpoints]
+holesky = "https://eth-holesky.g.alchemy.com/v2/BvSZ5ZfdIwB-5SDXMz8PfGcbICYQqwrl"
+
+[etherscan]
+holesky = { key = "HZEZGEPJJDA633N421AYW9NE8JFNZZC7JT" }
