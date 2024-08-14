@@ -50,10 +50,16 @@
 #### EVM 比较指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_compare_instruction_set.md)
 #### EVM 内存与存储指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_memory_and_storage_instruction_set.md)
 #### EVM 控制流程、区块等相关的指令集- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/EVM_control_instruction_set.md)
+#### Solidity 智能合约透明代理升级实战- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/Solidity%20Transparent%20Proxy.md)
+#### Solidity 智能合约 UUPS 代理升级实战- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/Solidity%20UUPS%20Proxy.md)
+#### TheGraph 监听合约事件细节解读与代码实战- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/TheGraph%20listening%20for%20contract%20events.md)
+####  Golang 监听 Ethereum 合约事件实战- [教程](https://github.com/the-web3/the-web3-solidity/blob/main/advanced/Golang%20Listening%20for%20Ethereum%20Contract%20Events.md)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### 区块链项目实战篇
-
+#### The Web3 社区项目实战之-- Web3 史上第一个  EventFi 项目 FishCake [教程](https://github.com/the-web3/the-web3-solidity/blob/main/practical_project/The%20Web3%20FishCake.md)
+#### The Web3 项目实战--深入理解 DappLink Bridge 智能合约实现机制 [教程](https://github.com/the-web3/the-web3-solidity/blob/main/practical_project/The%20Web3%20DappLink%20Bridge.md)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
