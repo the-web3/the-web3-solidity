@@ -576,4 +576,4 @@ func (pp *PolygonEventProcessor) eventUnpack(event event.ContractEvent) error {
 
 # 五. 小结
 
-本文讲解了 EventFi 项目 FishCake 的代码细节，如果你要了解更多 FishCake 项目相关的信息，可以看[这篇文章](https://github.com/the-web3/the-web3-solidity/blob/main/practical_project/The%20Web3%20FishCake.md)
+本文讲解了 EventFi 项目 FishCake 的代码细节，如果你要了解更多 FishCake 项目相关的信息，可以看[这篇文章](../practical_project/The%20Web3%20FishCake.md)
