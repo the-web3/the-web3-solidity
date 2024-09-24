@@ -1,7 +1,5 @@
 # the-web3-solidity
 
-# Rust 中文教程
-
 本教程由 The Web3 社区出品
 
 [![DappLink](https://raw.githubusercontent.com/eniac-x-labs/.github/main/profile/dapplink.jpeg)](https://www.dapplink.xyz/zh)
@@ -62,7 +60,14 @@
 #### The Web3 社区项目实战之-- Web3 史上第一个  EventFi 项目 FishCake [教程](https://github.com/the-web3/the-web3-solidity/blob/main/practical_project/The%20Web3%20FishCake.md)
 #### The Web3 项目实战--深入理解 DappLink Bridge 智能合约实现机制 [教程](https://github.com/the-web3/the-web3-solidity/blob/main/practical_project/The%20Web3%20DappLink%20Bridge.md)
 
+------------------------------------------------------------------------------------------------------------------------------
 
+### Defi 篇
+#### UniSwap V1 底层原理和代码详解解读 [教程](https://github.com/the-web3/the-web3-solidity/blob/main/defi/UniSwapV1.md)
+#### UniSwap V2 底层原理和代码详解解读 [教程](https://github.com/the-web3/the-web3-solidity/blob/main/defi/UniSwapV2.md)
+#### Uniswap V3 底层原理和代码详解解读 [教程](https://github.com/the-web3/the-web3-solidity/blob/main/defi/UniSwapV3.md)
+#### Compound 借贷协议原理与源码解读 [教程](https://github.com/the-web3/the-web3-solidity/blob/main/defi/Compound.md)
+#### EventFi 项目 Fishcacke 源码解析 [教程](https://github.com/the-web3/the-web3-solidity/blob/main/defi/Fishcacke.md)
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Solidity 审计篇
