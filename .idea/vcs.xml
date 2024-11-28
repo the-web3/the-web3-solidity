@@ -2,5 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/code/day5/lib/openzeppelin-contracts-upgradeable/lib/openzeppelin-contracts" vcs="Git" />
   </component>
 </project>
